@@ -1,0 +1,164 @@
+[
+    {
+        "id": "portfolio",
+        "name": "My Portfolio",
+        "img": "assets/img/Portfolio.png",
+        "imgAlt": "Screenshot of My Portfolio homepage",
+        "link": "/Projects/portfolio",
+        "discription": "Desgined with the goal of being my primary showcase of skill and experience, my Portfolio also reflects myself and my style.",
+        "updated": "10/2022",
+        "showOnCarousel": false,
+        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInUpBig'><h2 class='text_h2 center'>My portfolio has changed a lot over the years. It has become my playground to practice my skills and experiment with new components. New design principles and design heuristics have dramatically changed the UI and UX experience of the site. I have made my portfolio accessible to everyone by designing with all kinds of users in mind. My portfolio will also be transitioning into an angular project. Some problems with this transition are: legacy code needs replacement and a shift from Materialize to Bootstrap.</h2></div></div>"
+    },
+    {
+        "name": "Freelance Work",
+        "img": "assets/img/Angular.png",
+        "imgAlt": "Angular logo",
+        "discription": "Commistioned projects built on the Angular framework. Designed works were prototyped in Figma",
+        "updated": "10/2022",
+        "showOnCarousel": false
+    },
+    {
+        "id": "PMMC",
+        "name": "PMMC Marine Mammal Mania",
+        "img": "assets/img/PMMC.png",
+        "imgAlt": "Screenshot of main menu for Marine Mammal Mania",
+        "link": "/Projects/PMMC",
+        "discription": "Senior Capstone Project.",
+        "updated": "06/2022",
+        "showOnCarousel": true,
+        "sourceCode": ""
+    },
+    
+    {
+        "id": "125project",
+        "name": "BULLET SHIPPING Game",
+        "img": "assets/img/bulletshipping-landing.png",
+        "imgAlt": "Main Title Page of Bullet Shipping",
+        "link": "/Projects/125project",
+        "discription": "First time designing a game from scratch. Our team used Unity and C# to create a 2D Bullet Hell Platformer that follows the Game design prinicples covered in the course.",
+        "updated": "12/2022",
+        "showOnCarousel": true,
+        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInUpBig'><h1 class='center text_h1'><a href='https://bullet-shipping.weebly.com'>Informatics 125 Project</a></h1><h2 class='text_h2 center'>Bullet Shipping was created as our teams final project in Informatics 125 Game development. The game is created on the Unity Game Engine and is programmed in C#. This project allowed me to explore a new language and learn about game history and development. Our team of 5 created a Functional game with 1 level, an elaborate Game Design Document, and a website for game adverticement. This project required sprites, scripts, and assets to be custom made specifically for our game, allowing me to get a diverse set of experiences.</h2> <h6 class='center'><a target='_blank' href='https://bullet-shipping.weebly.com'>https://bullet-shipping.weebly.com</a></h6></div><div class='row'><iframe class='video' width='560' height='315' src='https://www.youtube-nocookie.com/embed/PumpHSB9sfg' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
+
+    },
+    {
+        "id": "134project",
+        "name": "Mgr. Peter",
+        "img": "assets/img/Mgr.Peter_shopping.png",
+        "imgAlt": "Screen Shot of Prototype Mgr.Peter",
+        "link": "/Projects/134project",
+        "discription": "Mgr. Peter is the result of a quarter long project for Informatics 134.",
+        "updated": "10/2021",
+        "showOnCarousel": false,
+        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInUpBig'><h1 class='center text_h1'>Informatics 134 Project</h1><h2 class='text_h2 center'>Mrg. Peter is a College Life Management App that students can use to keep track of and accomplish tasks while enrolled at UC Irvine. These tasks can include keeping track of meals, placing shopping orders, viewing parking statistics, buying parking permits, and/or ordering supplies. The layout and feel of this prototype are very traditional. That was by design to stay consistent with the standards and the subsequent UCI systems already in place.</h2></div></div><div class='row'><div class='col-sm-12 animated fadeInUpBig'><h3 class='center text_h3'>Interactive Prototype</h3></div></div><div class='row'><div class='col-sm-12 animated fadeInUpBig'><iframe class='center webapp' style='border: 0px solid rgba(0, 0, 0, 0.1);' width='100%'height='1000' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F8gU7OVyAGsG3oChM2iHjHV%2FFinalized_Lofi_Wireframes%3Fnode-id%3D94%253A0%26viewport%3D4777%252C4871%252C0.8868455290794373%26scaling%3Dcontain' allowfullscreen></iframe></div></div><div class='row'><div class='col-sm-12 animated fadeInUpBig'><h2 class='center text_h2'>Speculative Story</h2></div></div><div class='row'><div class='col-md-6'><h3 class='text_h3'>I plan on extending our product into a wearable device such as a watch. A watch would be a good choice because it has a screen that is conveniently located on the wrist and can display widgets from the phone app home screen. The user can stroll through widgets until they find the one they are looking for. The widgets will either display Shopping, Parking, Meals, or Account information. Some widgets can perform actions based on preset defaults selected by the user. The user will need to be able to control the watch app using their pre installed and set up Mgr.Peter app on their phone. From there the user can also select presets that will help with widgets down the line. Some presets include Preferred payment method, Shipping address, Amount of time for parking extension, Amount of meals swipes to add, and the Favorite Widget.</h3></div><div class='col-md-6'><iframe style='border: 1px solid rgba(0, 0, 0, 0.1);' width='100%' height='1000' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FeF1J4NRqzUzcdo8rC2SK8Y%2FUntitled%3Fnode-id%3D3%253A126%26viewport%3D533%252C473%252C3.226245164871216%26scaling%3Dcontain' allowfullscreen></iframe></div></div>"
+    },
+    {
+        "id":  "151project",
+        "name": "UCI Content Management System",
+        "img": "assets/img/CMS.png",
+        "imgAlt": "Screen Shot of Prototype CMS",
+        "link": "/Projects/151project",
+        "discription": "UC, Irvine: Content Management System is the result of a quarter long project for Informatics 151.",
+        "updated": "--/2021",
+        "showOnCarousel": true,
+        "sourceCode": ""
+    },
+    {
+        "id": "117project",
+        "name": "Music Notation",
+        "img": "assets/img/Music-notation.png",
+        "imgAlt": "Screen shot of iPad app Music Notation",
+        "link": "/Projects/117project",
+        "discription": "An iPad application designed to allow music creators new way to display / compose music and share it with musicians for live concerts",
+        "updated": "--/2021",
+        "showOnCarousel": true,
+        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInBottom'><h1 class='center text_h1'>Informatics 117 Project</h1><h2 class='center text_h2'>For this project, our team goal was to create a Music Notation App that would satisfy the requirements placed by our sponsor. This project was special to me because it was the first time I was part of an Agile Scrum team and experienced weekly meetings with my team and sponsor to discuss our weekly progress. Overall this project helped me get a sense of what the workplace would be like and how it is important to keep the customer involved throughout the process. The design for this project is very modern and minimalistic. Thanks to feedback from the sponsor, we were able to make this prototype feel revolutionary and modern like the music it is creating. This project also tackled complex interaction and allowed me to put to use my skills as a UI/UX designer. One such interaction is the stream page in which a user needs to be able to quickly create a piece of music and quickly share it with the corresponding musicians. </h2></div></div><div class='row'><div class='col-sm-12'><h3 class='center text_h3'>Interactive Prototype</h3></div></div><div class='row'> <div class='col-sm-12 center'> <iframe style='border: 1px solid rgba(0, 0, 0, 0.1);' width='100%' height='1000px' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2Mt0lwDCj9lFyzLTTyh7oN%2FMusic-Notation%3Fpage-id%3D413%253A1995%26node-id%3D413%253A3367%26viewport%3D804%252C1009%252C0.024436939507722855%26scaling%3Dscale-down' allowfullscreen></iframe></div></div>"
+    },
+    {
+        "id": "132project",
+        "name": "MobilityMaps",
+        "img": "assets/img/MobilityMaps.png",
+        "imgAlt": "Screen shot of mobile app MobilityMaps",
+        "link": "/Projects/132project",
+        "discription": "Designed to be an aid to people with mobility impairments. MobilityMaps is result of a quarter long project for Informatics 132. This app was created and developed using the design process from beginning to end.",
+        "updated": "--/2021",
+        "showOnCarousel": false
+    },
+    {
+        "name": "Tip Calculator App",
+        "img": "assets/img/tipCalculator.PNG",
+        "imgAlt": "Screen Shot of App Tip Calculator",
+        "discription": "This beginner app allowed me to get comformtable with Swift and using XCode. I also customized the appearence and functionallity to what is useful and appealing to me.",
+        "updated": "--/2021",
+        "showOnCarousel": false,
+        "sourceCode": ""
+    },
+    {
+        "id": "flix",
+        "name": "Flix",
+        "img": "assets/img/Flix.gif",
+        "imgAlt": "Screen shot of iPhone app Flix",
+        "link": "/Projects/",
+        "discription": "Flix is an app that allows users to browse movies from the The Movie Database API. Created as an assignment for CodePath.",
+        "updated": "--/2021",
+        "showOnCarousel": false,
+        "sourceCode": ""
+    },
+    {
+        "id": "Parstagram",
+        "name": "Parstagram",
+        "img": "assets/img/Parstagram.gif",
+        "imgAlt": "Screen shot of iPhone app Parastagram",
+        "link": "/Projects/Parstagram",
+        "discription": "This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments! Created as an assignment for CodePath.",
+        "updated": "--/2021",
+        "showOnCarousel": false,
+        "sourceCode": "<div class='row default_color_bg'><h5>Group Members: Saul Fernandez, Areeta Wong, Eric Chambers, Kingsley Szeto, Michelle Yi-Ting Huynh<br>Project for: Informatics 117 Spring 2021</h5></div>"
+    },
+    {
+        "id": "131project",
+        "name": "Laundry Time",
+        "img": "assets/img/LaundryTime.png",
+        "imgAlt": "Screen Shot of App Laundry Time Prototype",
+        "link": "/Projects/131project",
+        "discription": "",
+        "updated": "--/2021",
+        "showOnCarousel": false,
+        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInLeftBig'><h1 class='center header text_h1'>Informatics 131 Project</h1><h4 class='text_h4'>For this project, my goal was to address the problem of laundry being a heavy workload for people and work towards solving the problem. I had to conduct interviews and collect user data through Contextual Inquiry. The data I collected was then compiled into an application with features that would address the concerns and problems faced by students living in dormitories. With all my collected information I then began sketching ideas and then I began prototyping. After evaluations and changes, the Figma prototype to the right is the final version of the project.</h4></div><div class='col-md-6'><iframe class='center' style='border: 0px solid rgba(0, 0, 0, 0.1);' width='500' height='1000' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F25MDt7FsrvpIA3XRT3oDpy%2FAssignment-6-Interactive%3Fnode-id%3D23%253A1%26scaling%3Dmin-zoom' allowfullscreen></iframe></div></div>"
+    },
+    {
+        "name": "Portfolio for Writing 37",
+        "img": "assets/img/saul-wr37.png",
+        "imgAlt": "Screen Shot of website Portfolio for Writing 37",
+        "link": "https://saul-wr37.weebly.com",
+        "discription": "",
+        "updated": "--/2021",
+        "showOnCarousel": false
+    },
+    {
+        "name": "CommuniLink",
+        "img": "assets/img/CommuniLink.png",
+        "imgAlt": "Screen Shot of website CommuniLink",
+        "link": "http://communilink.herokuapp.com",
+        "discription": "This website was created for The SouthLA Hackaton 2016. Its function is to be a social forum of events occurring in the County of LA. This website uses information from an LA County API for event information.",
+        "updated": "--/2021",
+        "showOnCarousel": false
+    },    {
+        "name": "WiFound",
+        "img": "assets/img/WiFound.png",
+        "imgAlt": "Screen Shot of website WiFound",
+        "link": "http://wifound.herokuapp.com",
+        "discription": "This website was created for The SouthLA Hackaton 2015. Its function is to crowdsource locations to create a map of publicly available wifi networks around the area of Watts.",
+        "updated": "--/2017",
+        "showOnCarousel": false
+    },    {
+        "name": "When Does Class End",
+        "img": "assets/img/when_is_class_over.png",
+        "imgAlt": "Screen Shot of website WiFound",
+        "link": "",
+        "discription": "This web app was designed to inform students of my old high school when each class period would end. The app also features the schedules for holidays and short days.",
+        "updated": "--/2021",
+        "showOnCarousel": false
+    }
+]
