@@ -133,7 +133,16 @@
         "imgAlt": "Screen Shot of website Portfolio for Writing 37",
         "link": "https://saul-wr37.weebly.com",
         "discription": "",
-        "updated": "--/2021",
+        "updated": "--/2017",
+        "showOnCarousel": false
+    },
+    {
+        "name": "When Does Class End",
+        "img": "assets/img/when_is_class_over.png",
+        "imgAlt": "Screen Shot of website WiFound",
+        "link": "",
+        "discription": "This web app was designed to inform students of my old high school when each class period would end. The app also features the schedules for holidays and short days.",
+        "updated": "--/2017",
         "showOnCarousel": false
     },
     {
@@ -142,23 +151,16 @@
         "imgAlt": "Screen Shot of website CommuniLink",
         "link": "http://communilink.herokuapp.com",
         "discription": "This website was created for The SouthLA Hackaton 2016. Its function is to be a social forum of events occurring in the County of LA. This website uses information from an LA County API for event information.",
-        "updated": "--/2021",
+        "updated": "--/2016",
         "showOnCarousel": false
-    },    {
+    },    
+    {
         "name": "WiFound",
         "img": "assets/img/WiFound.png",
         "imgAlt": "Screen Shot of website WiFound",
         "link": "http://wifound.herokuapp.com",
         "discription": "This website was created for The SouthLA Hackaton 2015. Its function is to crowdsource locations to create a map of publicly available wifi networks around the area of Watts.",
-        "updated": "--/2017",
-        "showOnCarousel": false
-    },    {
-        "name": "When Does Class End",
-        "img": "assets/img/when_is_class_over.png",
-        "imgAlt": "Screen Shot of website WiFound",
-        "link": "",
-        "discription": "This web app was designed to inform students of my old high school when each class period would end. The app also features the schedules for holidays and short days.",
-        "updated": "--/2021",
+        "updated": "--/2015",
         "showOnCarousel": false
     }
 ]

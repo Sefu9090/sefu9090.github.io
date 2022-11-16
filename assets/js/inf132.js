@@ -6,8 +6,12 @@
                 var item = $($(this).attr("href"));
                 if (item.length) { return item; }
             });
-        console.log("hello")
-        var nav_original_posX = $("#nav_132").position().top;
+        if ($("#nav_132").length){
+            var nav_original_posX = $("#nav_132").position().top;
+        }else {
+            var nav_original_posX = 0;
+        }
+        
         // Bind click handler to menu items
         // so we can get a fancy scroll animation
         menuItems.click(function (e) {
@@ -22,6 +26,7 @@
             //if you hard code, then use console
             //.log to determine when you want the 
             //nav bar to stick.  
+            if ($("#nav_132")){
             if ($(window).scrollTop() > nav_original_posX - $("#nav_132").outerHeight()) {
                 $('#nav_132').addClass('nav_132-fixed');
             }
@@ -45,7 +50,7 @@
                 menuItems
                     .parent().removeClass("active_132")
                     .end().filter("[href='#" + id + "']").parent().addClass("active_132");
-            }
+            }}
         });
         
         // var header = document.getElementById("nav_132");
