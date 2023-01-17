@@ -27,7 +27,7 @@
         "discription": "Senior Capstone Project.",
         "updated": "06/2022",
         "showOnCarousel": true,
-        "sourceCode": ""
+        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInUpBig'><h1 class='center text_h1'>Senior Capstone Project</h1><h2 class='text_h2 center'>This project, for Pacific Marine Mammal Center, was to build a functioning mobile game that will be played on android devices. The game Marine Mammal Mania is an educational game for a younger audience to explore and learn about sea animals including their natural habitats, food, threats, and more. Players will be able to gain knowledges for marine mammal while having enjoyable time playing the game. The game will consist of multiple levels and playable sea animals that include Polar Bear, Blue Whale, Southern Resident Killer Whales, Bottlenose Dolphins, and California Sea Lions.</h2></div></div>"
     },
     
     {
@@ -62,7 +62,7 @@
         "discription": "UC, Irvine: Content Management System is the result of a quarter long project for Informatics 151.",
         "updated": "--/2021",
         "showOnCarousel": true,
-        "sourceCode": ""
+        "sourceCode": " <div class='row'><div class='col-lg-6'><p class='fs-5 fw-light'>Student View</p><iframe style='border: 1px solid rgba(0, 0, 0, 0.1);' width='100%' height='500' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F91jzbrmpKt2tWfnDpfhuIA%2FCanvas-Prototype%3Fpage-id%3D0%253A1%26node-id%3D3%253A445%26starting-point-node-id%3D3%253A445%26scaling%3Dcontain' allowfullscreen></iframe></div><div class='col-lg-6'><p class='fs-5 fw-light'>Professor View</p><iframe style='border: 1px solid rgba(0, 0, 0, 0.1);' width='100%' height='500' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F91jzbrmpKt2tWfnDpfhuIA%2FCanvas-Prototype%3Fpage-id%3D86%253A1075%26node-id%3D93%253A1470%26viewport%3D-801%252C353%252C0.25%26scaling%3Dcontain%26starting-point-node-id%3D93%253A1470' allowfullscreen></iframe></div></div>"
     },
     {
         "id": "117project",
@@ -95,11 +95,11 @@
         "sourceCode": ""
     },
     {
-        "id": "flix",
+        "id": "Flix",
         "name": "Flix",
         "img": "assets/img/Flix.gif",
         "imgAlt": "Screen shot of iPhone app Flix",
-        "link": "/Projects/",
+        "link": "/Projects/Flix",
         "discription": "Flix is an app that allows users to browse movies from the The Movie Database API. Created as an assignment for CodePath.",
         "updated": "--/2021",
         "showOnCarousel": false,
@@ -125,7 +125,7 @@
         "discription": "",
         "updated": "--/2021",
         "showOnCarousel": false,
-        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInLeftBig'><h1 class='center header text_h1'>Informatics 131 Project</h1><h4 class='text_h4'>For this project, my goal was to address the problem of laundry being a heavy workload for people and work towards solving the problem. I had to conduct interviews and collect user data through Contextual Inquiry. The data I collected was then compiled into an application with features that would address the concerns and problems faced by students living in dormitories. With all my collected information I then began sketching ideas and then I began prototyping. After evaluations and changes, the Figma prototype to the right is the final version of the project.</h4></div><div class='col-md-6'><iframe class='center' style='border: 0px solid rgba(0, 0, 0, 0.1);' width='500' height='1000' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F25MDt7FsrvpIA3XRT3oDpy%2FAssignment-6-Interactive%3Fnode-id%3D23%253A1%26scaling%3Dmin-zoom' allowfullscreen></iframe></div></div>"
+        "sourceCode": "<div class='row'><div class='col-sm-12 animated fadeInUpBig'><h1 class='center header text_h1'>Informatics 131 Project</h1></div><div class='col-md-6'><iframe class='center' style='border: 0px solid rgba(0, 0, 0, 0.1);' width='500' height='1000' src='https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F25MDt7FsrvpIA3XRT3oDpy%2FAssignment-6-Interactive%3Fnode-id%3D23%253A1%26scaling%3Dmin-zoom' allowfullscreen></iframe></div><div class='col-md-6'><h4 class='text_h4'>For this project, my goal was to address the problem of laundry being a heavy workload for people and work towards solving the problem. I had to conduct interviews and collect user data through Contextual Inquiry. The data I collected was then compiled into an application with features that would address the concerns and problems faced by students living in dormitories. With all my collected information I then began sketching ideas and then I began prototyping. After evaluations and changes, the Figma prototype to the right is the final version of the project.</h4></div></div>"
     },
     {
         "name": "Portfolio for Writing 37",
